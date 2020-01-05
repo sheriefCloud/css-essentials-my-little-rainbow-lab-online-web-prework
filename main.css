@@ -11,3 +11,8 @@ div {
 }
 
 /* Red: #f00; Orange: #ffa500; Yellow: #ff0; Green: #00bc3f; Blue: #06f; Indigo: #8a2be2; Violet: #d300c9 */
+
+
+#red {
+  border-top-color: #f00;
+}
